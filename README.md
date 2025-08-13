@@ -1,9 +1,9 @@
-![Proje Görseli](https://github.com/emirkvrak/OtaparkAracTespit/blob/main/images/carimage.png)
-
 OTOPARK ARAÇ TESPİT SİSTEMİ
 
 Amaç:
 YOLOv8 ve OpenCV kullanarak otopark alanlarındaki araçların tespiti ve doluluk/boşluk durumlarının PostgreSQL veritabanına kaydedilmesi.
+
+![Proje Görseli](https://github.com/emirkvrak/OtaparkAracTespit/blob/main/images/carimage.png)
 
 Kullanılan Teknolojiler:
 
